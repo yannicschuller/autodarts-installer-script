@@ -1,0 +1,1 @@
+# autodarts-installer-script
